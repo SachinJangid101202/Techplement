@@ -1,0 +1,1 @@
+@py.exe  C:\Users\Sachin\Documents\PythonProject\quickWeather.py  %*
